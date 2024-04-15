@@ -1,4 +1,4 @@
-version: "3"
+version: "7"
 services:
   rosetta-solana:
     image: rosetta-solana
